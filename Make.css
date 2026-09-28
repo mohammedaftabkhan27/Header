@@ -14,8 +14,8 @@ body {
     font-family: Arial, sans-serif;
 
     background:
-        radial-gradient(circle at 20% 20%, #7f00ff55, transparent 30%),
-        radial-gradient(circle at 80% 80%, #00d4ff44, transparent 30%),
+        radial-gradient(circle at 1.5px 20%, #7f00ff55, transparent 30%),
+        radial-gradient(circle at 100% 80%, #00d4ff44, transparent 30%),
         #080816;
 
     overflow: hidden;
